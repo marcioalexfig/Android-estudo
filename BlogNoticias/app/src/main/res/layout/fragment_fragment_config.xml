@@ -1,0 +1,18 @@
+<GridLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:columnCount="4"
+    android:rowCount="14">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tela de configurações em construção"
+        android:id="@+id/textView"
+        android:layout_row="0"
+        android:layout_column="0" />
+
+</GridLayout>

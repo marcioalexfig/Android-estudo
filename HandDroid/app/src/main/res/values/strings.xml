@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HandDroid</string>
+    <string name="nome_jogo">Hang Droid</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="scores">Scores</string>
+    <string name="title_activity_single_player">SinglePlayerActivity</string>
+</resources>

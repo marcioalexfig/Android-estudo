@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MAZap</string>
+    <string name="botao_logar">LOGAR</string>
+    <string name="hint_email">Digite seu e-mail!</string>
+    <string name="hint_senha">Digite sua senha!</string>
+    <string name="hint_nome">Digite seu nome!</string>
+    <string name="botao_cadastrar">CADASTRAR</string>
+    <string name="item_menu_sair">Sair</string>
+    <string name="item_menu_config">Configurações</string>
+    <string name="item_menu_pesquisa">Pesquisa</string>
+    <string name="item_menu_adicionar_contato">Novo Contato</string>
 </resources>
